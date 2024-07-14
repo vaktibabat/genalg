@@ -1,2 +1,2 @@
 # genalg
-Genetic Algorithm in Rust!
+Genetic Algorithms in Rust!
